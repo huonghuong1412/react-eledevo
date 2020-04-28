@@ -1,0 +1,299 @@
+{
+  "slides": [
+    {
+      "title": "Huongaa",
+      "description": "aaaa",
+      "link": "aaaa",
+      "img": "aaaa",
+      "id": 1
+    },
+    {
+      "title": "Title 2",
+      "description": "Description 2",
+      "link": "bbb",
+      "img": "bbb",
+      "id": 2
+    },
+    {
+      "title": "Title 3",
+      "description": "Description 3",
+      "link": "ccc",
+      "img": "ccc",
+      "id": 3
+    },
+    {
+      "title": "Kakakakaka",
+      "description": "Kakakaka",
+      "link": "/ka-ka-ka",
+      "img": "/ka-ka-ka.jpg",
+      "id": 4
+    }
+  ],
+  "benefits": [
+    {
+      "title": "Học thử free",
+      "description": "Học viên được học thử MIỄN PHÍ 1 khoá cơ bản để hiểu rõ hơn về môi trường học tập cũng như phương pháp giảng dạy. Nếu thấy phù hợp, các bạn có thể đăng ký học tiếp.",
+      "id": 1
+    },
+    {
+      "title": "Cơ hội thực tập",
+      "description": "Học viên được thực tập ngay tại Eledevo, được hướng dẫn từ a-z, cầm tay chỉ việc cho đến khi thành thạo, được nghiên cứu và luyện tập cho đến khi tự tin đi xin việc.",
+      "id": 2
+    },
+    {
+      "title": "Cơ hội việc làm",
+      "description": "Eledevo Academy luôn có các Công ty đối tác sẵn sàng chờ đợi, săn đón tất cả những học viên vừa mới tốt nghiệp xong các khóa học tại học viện.",
+      "id": 3
+    }
+  ],
+  "activities": [
+    {
+      "title": "Môi trường học tập tại doanh nghiệp",
+      "description": "Môi trường công sở ở các doanh nghiệp hiện nay đang ngày càng được chú trọng. Nó là một trong những yếu tố tạo nên hiệu quả làm việc, ảnh hưởng tới thái độ làm việc của cán bộ nhân viên và tạo ra những chuyển biến vĩ mô khác, thể hiện sự lớn mạnh không ngừng của doanh nghiệp.",
+      "link": "/moi-truong-hoc-tap-theo-phong-cach-doanh-nghiep/",
+      "img": "http://eledevo.edu.vn/wp-content/uploads/sites/2/2019/12/aa-768x576.jpg",
+      "id": 1
+    },
+    {
+      "title": "Hoạt động ngoại khoá",
+      "description": "Hoạt động ngoại khóa là phần không thể thiếu được trong bất kỳ môi trường học tập lao động nào. Sau những giờ phút lao động miệt mài, những khoảng thời gian thoải mái thư giãn cùng nhau là điều tuyệt vời mà chúng ta không nên bỏ lỡ.",
+      "link": "/hoat-dong-ngoai-khoa/",
+      "img": "http://eledevo.edu.vn/wp-content/uploads/sites/2/2019/12/aaa-768x576.jpg",
+      "id": 2
+    }
+  ],
+  "differences": [
+    {
+      "title": "Phương pháp học mới",
+      "link": "/phuong-phap-hoc-moi/",
+      "id": 1
+    },
+    {
+      "title": "Kỹ năng mềm",
+      "link": "/ky-nang-mem/",
+      "id": 2
+    },
+    {
+      "title": "Cách tiếp cận dự án",
+      "link": "/2020/02/07/tiep-can-du-an/",
+      "id": 3
+    },
+    {
+      "title": "Tư duy xử lý vấn đề",
+      "link": "/tu-duy-xu-ly-van-de/",
+      "id": 4
+    },
+    {
+      "title": "Tìm hiểu thêm",
+      "link": "/category/diem-khac-biet/",
+      "id": 5
+    }
+  ],
+  "feedbacks": [
+    {
+      "classname": "Lớp HTML/CSS/JS",
+      "img": "http://eledevo.edu.vn/wp-content/uploads/sites/2/2020/01/81794044_580499679381805_1663252409230557184_n-1024x776.jpg",
+      "content": [
+        "Khóa học giúp em có được những kiến thức thực tế, có thể áp dụng vào công việc. Đặc biệt giảng viên rất thân thiện và giúp em nhận ra 1 vài điều rất quan trọng. Em nhận thấy khóa học rất có ích với em cả về kiến thức và cuộc sống.",
+        "Em nghĩ trung tâm nên có giáo trình giúp học viên có thể ghi chép lý thuyết được đầy đủ hơn."
+      ],
+      "id": 1
+    },
+    {
+      "classname": "Lớp PHP Laravel",
+      "img": "http://eledevo.edu.vn/wp-content/uploads/sites/2/2020/01/80793346_605014386928822_1167234332796911616_n-1024x776.jpg",
+      "content": [
+        "Em cảm thấy kiến thức rất bổ ích cho công việc thực tế sau này. Nếu được học 2h-3h mỗi buổi thì em sẽ nhận đc sự hỗ trợ nhiều hơn từ giảng viên.",
+        "Theo cá nhân em thấy nên có thêm nhiều bài tập về nhà hơn để vận dụng những kiến thức của buổi học, kiến thức liên quan để nắm vững những kiến thức căn bản."
+      ],
+      "id": 2
+    },
+    {
+      "classname": "Lớp React - Redux - Saga",
+      "img": "http://eledevo.edu.vn/wp-content/uploads/sites/2/2020/01/78894191_672428083163472_2526871874625863680_n-1024x776.jpg",
+      "content": [
+        "Cảm ơn anh đã nhiệt tình giúp đỡ bọn e, không chỉ code mà a còn chỉ dạy cho bọn e nhiều kiến thức ngoài lề cần có của developer nữa.",
+        "Lớp học rất linh động về thời gian. Những hướng dẫn về step by step rất cụ thể và chi tiết. Mỗi khóa kết thúc đều được thực tập thì hay biết mấy ^^"
+      ],
+      "id": 3
+    },
+    {
+      "classname": "Lớp nhẫn giả",
+      "content": [
+        "Byakugan, Sharingan, Magekyou Sharingan, Rinnegan,  Eternal Mangekyou Sharingan, Original Mangekyou Sharingan, Rinne Sharingan ",
+        "Madara, Obito, Nagato, Sasuke, Itachi, Raikage 3, Đệ nhất, Guy, Jirayra, Kakashi"
+      ],
+      "img": "http://eledevo.edu.vn/wp-content/uploads/sites/2/2020/01/78894191_672428083163472_2526871874625863680_n-1024x776.jpg",
+      "id": 4
+    }
+  ],
+  "popularPost": {
+    "success": true,
+    "data": [
+      {
+        "id": 1,
+        "blog_title": "Các ứng dụng web và mobile được thiết kế như thế nào?",
+        "blog_content": "String",
+        "blog_link": "/2020/01/14/cac-ung-dung-web-va-mobile-duoc-thiet-ke-nhu-the-nao/",
+        "category_id": 2,
+        "views": 99899,
+        "img": "http://eledevo.edu.vn/wp-content/uploads/sites/2/2018/12/htmlcss1-600x300.jpg",
+        "created_at": "2020-03-06 09:07:40",
+        "updated_at": null
+      },
+      {
+        "id": 2,
+        "blog_title": "Có bao giờ bạn đã từng nghĩ mình kém cỏi?",
+        "blog_content": "String",
+        "blog_link": "/2020/01/14/co-bao-gio-ban-nghi-minh-kem-coi/",
+        "category_id": 3,
+        "views": 99899,
+        "img": "http://eledevo.edu.vn/wp-content/uploads/sites/2/2020/01/confused-600x300.jpg",
+        "created_at": "2020-03-06 09:07:40",
+        "updated_at": null
+      },
+      {
+        "id": 3,
+        "blog_title": "Bạn muốn kiếm tiền bằng công việc đầu óc?",
+        "blog_content": "String",
+        "blog_link": "/2020/01/14/ban-muon-kiem-tien-bang-dau-oc/",
+        "category_id": 4,
+        "views": 99899,
+        "img": "http://eledevo.edu.vn/wp-content/uploads/sites/2/2018/05/pexels-photo-374016-600x300.jpeg",
+        "created_at": "2020-03-06 09:07:40",
+        "updated_at": null
+      },
+      {
+        "id": 4,
+        "blog_title": "Bạn không biết lập trình bắt đầu từ đâu?",
+        "blog_content": "String",
+        "blog_link": "/2020/01/02/khong-biet-bat-dau-tu-dau/",
+        "category_id": 5,
+        "views": 99899,
+        "img": "http://eledevo.edu.vn/wp-content/uploads/sites/2/2018/12/f-600x300.jpg",
+        "created_at": "2020-03-06 09:07:40",
+        "updated_at": null
+      },
+      {
+        "blog_title": "Hướng đẹp trai",
+        "blog_link": "/huong-dep-trai/",
+        "img": "/huong-dep-trai.png",
+        "blog_content": "",
+        "category_id": 5,
+        "views": 9999,
+        "created_at": "2020-03-06 09:07:40",
+        "updated_at": null,
+        "id": 5
+      }
+    ],
+    "messages": "View ................"
+  },
+  "popularPostData": [
+    {
+      "id": 1,
+      "blog_title": "Các ứng dụng web và mobile được thiết kế như thế nào?",
+      "blog_content": "String",
+      "blog_link": "/2020/01/14/cac-ung-dung-web-va-mobile-duoc-thiet-ke-nhu-the-nao/",
+      "category_id": 2,
+      "views": 99899,
+      "img": "http://eledevo.edu.vn/wp-content/uploads/sites/2/2018/12/htmlcss1-600x300.jpg",
+      "created_at": "2020-03-06 09:07:40",
+      "updated_at": null
+    },
+    {
+      "id": 2,
+      "blog_title": "Có bao giờ bạn đã từng nghĩ mình kém cỏi?",
+      "blog_content": "String",
+      "blog_link": "/2020/01/14/co-bao-gio-ban-nghi-minh-kem-coi/",
+      "category_id": 3,
+      "views": 99899,
+      "img": "http://eledevo.edu.vn/wp-content/uploads/sites/2/2020/01/confused-600x300.jpg",
+      "created_at": "2020-03-06 09:07:40",
+      "updated_at": null
+    },
+    {
+      "id": 3,
+      "blog_title": "Bạn muốn kiếm tiền bằng công việc đầu óc?",
+      "blog_content": "String",
+      "blog_link": "/2020/01/14/ban-muon-kiem-tien-bang-dau-oc/",
+      "category_id": 4,
+      "views": 99899,
+      "img": "http://eledevo.edu.vn/wp-content/uploads/sites/2/2018/05/pexels-photo-374016-600x300.jpeg",
+      "created_at": "2020-03-06 09:07:40",
+      "updated_at": null
+    },
+    {
+      "id": 4,
+      "blog_title": "Bạn không biết lập trình bắt đầu từ đâu?",
+      "blog_content": "String",
+      "blog_link": "/2020/01/02/khong-biet-bat-dau-tu-dau/",
+      "category_id": 5,
+      "views": 99899,
+      "img": "http://eledevo.edu.vn/wp-content/uploads/sites/2/2018/12/f-600x300.jpg",
+      "created_at": "2020-03-06 09:07:40",
+      "updated_at": null
+    },
+    {
+      "blog_title": "Hướng đẹp trai",
+      "blog_link": "/huong-dep-trai/",
+      "img": "/huong-dep-trai.png",
+      "blog_content": "",
+      "category_id": 5,
+      "views": 9999,
+      "created_at": "2020-03-06 09:07:40",
+      "updated_at": null,
+      "id": 5
+    }
+  ],
+  "companyInfo": {
+    "name": "Eledevo Academy",
+    "id": 1,
+    "quotes": [
+      "Dạy bằng tâm, chỉ bằng tầm",
+      "Đừng nói mà hãy làm. Đừng luyên thuyên mà hãy hành động. Đừng hứa hẹn mà hãy chứng minh."
+    ],
+    "quotesTitle": "Dạy bằng tâm, chỉ bằng tầm",
+    "quotesDescription": "Đừng nói mà hãy làm. Đừng luyên thuyên mà hãy hành động. Đừng hứa hẹn mà hãy chứng minh.",
+    "shortDescription": "Nơi đặt trọn niềm tin – Chúng tôi luôn đồng hành cùng các bạn trên con đường sự nghiệp. Hướng dẫn từ a-z, cầm tay chỉ việc cho đến khi thành thạo. Cùng các bạn nghiên cứu và luyện tập cho đến khi tự tin đi xin việc",
+    "tel": "+84 38.35.86.343",
+    "address": "32 Tôn Đức Thắng, Cát Linh, Đống Đa, Hà Nội",
+    "email": "contact@eledevo.com",
+    "videoUrl": "https://youtu.be/ZoQyqOjLrPU",
+    "linkUrl": "/khoa-hoc/khoa-hoc-co-ban/",
+    "bgImage": "http://eledevo.edu.vn/wp-content/uploads/sites/2/2018/05/pexels-photo-301920.jpeg",
+    "counterStudentJoin": 189,
+    "counterCoursesComplete": 54,
+    "counterStudentHaveJob": 182,
+    "timeDescription": "Đội ngũ hỗ trợ của chúng tôi sẵn sàng giúp bạn 24 giờ một ngày, bảy ngày một tuần.",
+    "workSchedule": [
+      {
+        "date": "Thứ Hai - Thứ Bảy",
+        "time": "8:00 đến 22:00"
+      },
+      {
+        "date": "Chủ nhật",
+        "time": "Nghỉ"
+      }
+    ]
+  },
+  "homeCompanyInfo": [
+    {
+      "quotesTitle": "Huong",
+      "quotesDescription": "Huong",
+      "bgImage": "/huong.jpg",
+      "counterStudentJoin": 100,
+      "counterCoursesComplete": 99,
+      "counterStudentHaveJob": 100,
+      "id": 1
+    },
+    {
+      "quotesTitle": "Hướng đẹp trai",
+      "quotesDescription": "Hướng học giỏi",
+      "bgImage": "/huong-dep-trai.jpg",
+      "counterStudentJoin": 99,
+      "counterCoursesComplete": 9,
+      "counterStudentHaveJob": 99,
+      "id": 2
+    }
+  ]
+}

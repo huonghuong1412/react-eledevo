@@ -1,0 +1,402 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap');
+html, body, p, ol, ul, li, dl, dt, dd, blockquote, figure, fieldset, legend, textarea, pre, iframe, hr, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 100%;
+    font-weight: normal
+}
+
+ul {
+    list-style: none
+}
+
+button, input, select, textarea {
+    margin: 0
+}
+
+html {
+    box-sizing: border-box
+}
+
+*, *::before, *::after {
+    box-sizing: inherit
+}
+
+img, video {
+    height: auto;
+    max-width: 100%
+}
+
+iframe {
+    border: 0
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+td, th {
+    padding: 0
+}
+
+td:not([align]), th:not([align]) {
+    text-align: left
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+html {
+    scroll-behavior: smooth
+}
+
+body {
+    line-height: 25px;
+    font-family: 'Roboto', sans-serif;
+    overflow-x: hidden
+}
+
+a {
+    text-decoration: none !important;
+    transition: all .3s ease-in-out
+}
+
+a:hover {
+    text-decoration: none
+}
+
+button:focus, button:hover {
+    box-shadow: none;
+    outline: 0
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1170px !important;
+    }
+}
+
+.btn{
+    border-radius: 0;
+}
+
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.btn-link {
+    display: inline-block;
+    padding: 19px 61px;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: capitalize;
+    transition: all 0.3s ease;
+}
+
+.btn-link:hover {
+    text-decoration: none;
+}
+
+/* ----------------  HEADER + MENU  -------------------- */
+
+.header {
+    position: relative;
+    width: 100%;
+    /* z-index: 9999; */
+    top: 0;
+    background-color: #fff;
+    box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.05);
+    height: 82px;
+}
+
+.header-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.logo {
+    max-width: 100px;
+}
+
+.logo img {
+    max-width: 100%;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0;
+}
+
+.menu-item {
+    margin: 0;
+    position: relative;
+}
+
+.menu-child {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 150%;
+    display: none;
+    border-radius: 0.25rem;
+    background-color: #2f7dfc;
+    transform-origin: top center;
+    background-clip: padding-box;
+    transition: all 0.5s ease;
+    z-index: 1;
+}
+
+.menu-item:hover .menu-child {
+    display: block;
+    transition: all 0.5s ease;
+}
+
+.menu-child-list li:hover {
+    background-color: #229aeb;
+}
+
+.menu-child-list li:first-child:hover, .menu-child-list li:last-child:hover {
+    border-radius: 0.25rem;
+}
+
+.menu-child-list li a {
+    font-size: 14px;
+    padding: 8px 20px !important;
+    display: block;
+    color: #fff;
+    text-transform: capitalize;
+}
+
+.menu-link {
+    color: #000;
+    font-size: 14px;
+    text-decoration: none;
+    display: block;
+    padding: 35px 25px;
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    ;
+}
+
+.fa-sort-down {
+    margin-left: 8px;
+    font-size: 14px;
+    margin-top: -3px;
+    vertical-align: text-top;
+}
+
+.menu-icon {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-icon-item {
+    margin-left: 30px;
+    color: #3fccb5;
+    position: relative;
+}
+
+.menu-icon-item:hover {
+    color: #19f1cd;
+}
+
+.menu-icon-item:first-child::after {
+    position: absolute;
+    content: '5';
+    text-align: center;
+    top: -8px;
+    right: -10px;
+    border-radius: 50%;
+    width: 16px;
+    height: 16px;
+    background-color: #2f7dfc;
+    font-size: 10px;
+    color: #fff;
+    line-height: 16px;
+    padding-right: 1px;
+}
+
+/* ---------    Main    --------- */
+
+.main__body {
+    margin-top: 82px;
+}
+
+.table-title {
+    width: 300px;
+}
+
+.table-des {
+    width: 550px;
+}
+
+.table-dark td, .table-dark th, .table-dark thead th {
+    font-weight: 400;
+}
+
+.btn i {
+    padding-right: 10px;
+}
+
+.table-search {
+    width: 500px;
+}
+
+.table-heading-title {
+    font-size: 40px;
+    font-family: 'Lily Script One', cursive;
+    font-weight: 800;
+    color: rgb(238, 17, 17);
+}
+
+.input-form {
+    width: 80%;
+    border-radius: 0;
+}
+
+.input-form:focus {
+    box-shadow: none;
+    outline: none;
+}
+
+.form-submit {
+    margin: 0 auto;
+    padding: 30px;
+    width: 500px;
+    height: auto;
+    overflow: hidden;
+    background: white;
+    border-radius: 10px;
+}
+
+.form-submit label {
+    font-size: 14px;
+    color: rgb(149, 144, 144);
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.form-submit label, .form-submit input {
+    float: left;
+    clear: both;
+}
+
+.form-submit input {
+    padding: 10px;
+    width: 100%;
+    outline: none;
+    border: 1px solid #bfbfbf;
+    border-radius: 10px;
+    display: inline-block;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-transition: 0.2s ease all;
+    -moz-transition: 0.2s ease all;
+    -ms-transition: 0.2s ease all;
+    -o-transition: 0.2s ease all;
+    transition: 0.2s ease all;
+    font-size: 14px;
+}
+
+.form-submit textarea {
+    width: 100%;
+    resize: none;
+    padding: 10px;
+    border: 1px solid #bbb;
+    border-radius: 10px;
+    outline: none;
+    font-size: 14px;
+}
+
+.form-submit input[type=text]:focus,
+.form-submit textarea:focus {
+    border-color: rgb(20, 93, 230);
+}
+
+.logo-head {
+    margin: 0 auto 15px;
+    width: 100%;
+    font-family: 'Lily Script One', cursive;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(111, 230, 106);
+    -webkit-transition: 0.2s ease all;
+    -moz-transition: 0.2s ease all;
+    -ms-transition: 0.2s ease all;
+    -o-transition: 0.2s ease all;
+    transition: 0.2s ease all;
+}
+
+.logo-head:hover {
+    color: rgb(233, 200, 13);
+    cursor: pointer;
+}
+
+.delete-icon {
+    color: rgb(235, 32, 32);
+    font-size: 80px;
+    padding: 10px 0;
+    border-bottom: 3px solid rgb(8, 231, 231);
+}
+
+.form-delete {
+    width: 300px
+}
+
+.sure {
+    color: rgb(223, 103, 103);
+    font-size: 25px;
+    margin: 20px 0;
+    cursor: default;
+}
+
+.form-submit .close {
+    padding: 5px 15px;
+    font-size: 36px;
+    font-weight: 400;
+    color: rgb(235, 32, 32);
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: rgb(107, 245, 245);
+    border-bottom-left-radius: 50%;
+}
+
+.register-submit {
+    padding: 10px 30px;
+}
+
+.register-submit input {
+    padding: 6px;
+}
+
+.counter {
+    
+    height: 300px;
+}
+
+.counter label {
+    display: block;
+    margin: 5px 0;
+}
+
+.counter input {
+    width: 33.33%;
+    display: block;
+}
